@@ -1,0 +1,40 @@
+﻿#nbVies {
+    padding-top:5vh;
+}
+
+#affichage {
+    margin-bottom:5vh;
+}
+
+#erreur {
+    margin-top:5vh;
+    color:red;
+    font-size:3vh;
+}
+
+#timer {
+    font-weight:bold;
+    font-size:4vh;
+    margin-bottom:8vh;
+}
+
+.marge {
+    height:15vh;
+}
+
+.lettre {
+    display:inline-block;
+    border-bottom:solid;
+    width:4vw;
+    font-weight:bold;
+    font-size:4vh;
+    margin-left:1vw;
+}
+
+.specialchars {
+    display:inline-block;
+    width:4vw;
+    font-weight:bold;
+    font-size:4vh;
+    margin-left:1vw;
+}
